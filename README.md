@@ -1,18 +1,6 @@
 # whisper catamaran sailing experiences
 
-## swimming for screw-driver
-It is not the workst, but still this is what you dont want to happen. Especially when single-handed sailing you are toast. 
-
-So recently we went out, had a great sail. When approaching the shore and stopped to prepare for slipping we couldnt lift the backboard foil anymore. We double-checked the boat speed, but it was zero. So was the wand blocked by a branch or so? Nothing there that we could identify from the trampoline of the boat. Big problem, because it means we cannot pull the boat to the shore due to shallow knee-deep water. 
-So we tied the bow to a closeby buoy and I jumped into the 14 degree celcius warm (!) water perform a closer inspection. Then i could feel it with the fingers. There was something on the back side of the foil preventing to lift it. Swimming to the inside of the hull and diving (ducking??) the head underwater I could see that the screw was loose. Since I didnt fill the on-board tool-chest with my machinery, I had to take a swim and get a screw driver. Consequently I a nice swim to get a screw-driver from land. So i fixed that. How exactly it happened that i broke the wand right thereafter is unclear to me. It just broke by a simple touch. Maybe the wand was already damaged during the ride by only being half mounted.
-![losing the wand screw](losingwandscrew.jpg)
-
-So the boat and crew was rescued and we could slip the boat on land. Gladly I had ordered spare wands with the boat so I was on to fixing that broken one. It was trickier than I thought. The connecting metal axle had to be unscrewed at the top of the foil as well as at the wand. When I had finally the new wand in position, I figured the 3mm screw wouldnt go in. Why? There were no threads. So fortunately I had 3mm thread making bits !!!!!!!!!!!!!!! . They come as a set of 3 and I used only the first two, so that the threads would be tight enough and keep the screw in place.
-
-As to the larger screw that I almost lost during sailing, I used silicone glue, which should allow me to open the screw again in the unpleasent event i crack the wand again.  
-
-
-## 
+![whisper](whisper.jpg)
 
 # rigging and trimming tips
 ## main sail 
@@ -98,3 +86,16 @@ So I mounted a Velocitek SpeedPuck.
 The holder is 3D printed and can be found here [INSERT VELOCITEK HOLDER LINK].  
 ![3d printed holder](3dprint.jpg)
 
+
+# some stories...
+
+## swimming for screw-driver
+It is not the workst, but still this is what you dont want to happen. Especially when single-handed sailing you are toast. 
+
+So recently we went out, had a great sail. When approaching the shore and stopped to prepare for slipping we couldnt lift the backboard foil anymore. We double-checked the boat speed, but it was zero. So was the wand blocked by a branch or so? Nothing there that we could identify from the trampoline of the boat. Big problem, because it means we cannot pull the boat to the shore due to shallow knee-deep water. 
+So we tied the bow to a closeby buoy and I jumped into the 14 degree celcius warm (!) water perform a closer inspection. Then i could feel it with the fingers. There was something on the back side of the foil preventing to lift it. Swimming to the inside of the hull and diving (ducking??) the head underwater I could see that the screw was loose. Since I didnt fill the on-board tool-chest with my machinery, I had to take a swim and get a screw driver. Consequently I a nice swim to get a screw-driver from land. So i fixed that. How exactly it happened that i broke the wand right thereafter is unclear to me. It just broke by a simple touch. Maybe the wand was already damaged during the ride by only being half mounted.
+![losing the wand screw](losingwandscrew.jpg)
+
+So the boat and crew was rescued and we could slip the boat on land. Gladly I had ordered spare wands with the boat so I was on to fixing that broken one. It was trickier than I thought. The connecting metal axle had to be unscrewed at the top of the foil as well as at the wand. When I had finally the new wand in position, I figured the 3mm screw wouldnt go in. Why? There were no threads. So fortunately I had 3mm thread making bits !!!!!!!!!!!!!!! . They come as a set of 3 and I used only the first two, so that the threads would be tight enough and keep the screw in place.
+
+As to the larger screw that I almost lost during sailing, I used silicone glue, which should allow me to open the screw again in the unpleasent event i crack the wand again.  
