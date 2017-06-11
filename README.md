@@ -11,24 +11,38 @@ Flaps should show 2-3mm upwards when the wands are down.
 
 ## Fastest sailing when sail is above one
 Async setup of flight height through ride-height adjuster wheel and through foil rake, like 2.5 windwards and 3.5 leewards. 
-Foil rake: 4 is absolute max. 2.5 to 3.5 is good
+Foil rake: 4 is absolute max. 2.5 to 3.5 is good.
+
+Whiteformula hints: Straight line speed is best upright, but sailing for an upwind mark is best at 15degrees over to windward, this way you will generate lift towards the mark.
 
 ## how to remove water from the mast
 The mast should be water tight. But however, in my unfortunate case when I lost the lid of the hull and the boat almost sank, I did get water into it. The entire mast was in the water and it could have gottin in at the foot or somewhere else on the mast. Usually when capsizing the foot is above water, so less risky for untighteness.
 
 However, in case you have water in the mast, I had gotten from whiteformula's Tom White great hints. To get it out you can remove the screw from the halyard turning block eye. Near the base of the mast. This should let out any water. Note, the smaller upper-one screw of the two is connected with the hollow area of the mast, so this one lets water come out. 
 
+![drain water from mast foot](drainwaterfoot.jpg)
+
 If this does not solve the problem it is most likely that one of the rivet plugs is leaky. You can remove the white plastic plugs in the rivets on the mast hook. You can either pull them out with a pin or you can remove them with a 2.5mm Drill bit. I got some plugs from the nice guys from whiteformula.
+
+![drain water from mast top](drainwatertop.jpg)
  
 A very easy way to find the leak is to put soapy water over all of the rivets and blow air into the mast through the halyard eye hole using a bike pump. You will see bubbles come from the rivet that is leaky.
  
 If it is not a rivet but a screw in the foot, you can remove the screw, put a little silicone in the hole and then put the screw back in. That should solve it.
 
 
+
+
 # boat tweaks
 
 ## rudder holder
-Launching the boat in shallow water requires to hold the rudder in position by hand. When sailing single-handed its impossible to pull the boat at the bow through the water and hold the rudder at the far distant end of the boat at the same time. so something needed to keep the rudder a quarter-height down. I had this door wedge at home, and squeeze this at the side of the rudder to keep it at height. This works ok, when pulling the boat, but as soon as you are on the boat and pick up speed, it falls off as the rudder gets lift. Yes, if you manage to better adjust the angle of the rudder so the force goes down, maybe its possible to better keep it in place. However, I had to dive for the (KEIL) already and since added a line to it.
+Launching the boat in shallow water requires to hold the rudder in position by hand. When sailing single-handed its impossible to pull the boat at the bow through the water and hold the rudder at the far distant end of the boat at the same time. so something needed to keep the rudder a quarter-height down. I had this door wedge at home, and squeeze this at the side of the rudder to keep it at height. This works ok, when pulling the boat, but as soon as you are on the boat and pick up speed, it falls off as the rudder gets lift. Yes, if you manage to better adjust the angle of the rudder so the force goes down, maybe its possible to better keep it in place. However, I had to dive for the wedge already and since added a line to it.
+
+Has anyone a better solution?
+
+
+![rudder wedge](rudderwedge.jpg)
+
 
 ## chicken line
 So far all of the capsizes and most of the splashes were related to losing balance on the boat. While I hope to get better at keeping balance and steering the boat smoother, I still need to be able to hold-on to something. The traveller line isnt ideal, as the traveller cleat opens to easily and when the traveller is a bit out, you pull the sale all the time. On my Nacra 16 I had a chicken-line, which saved me a couple of times from capsizing when sailing gennaker downwind. So here is my first implementation of a chicken line for the whisper. Its good, it works, and it could be further improved too.
