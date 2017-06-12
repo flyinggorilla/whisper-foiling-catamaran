@@ -11,26 +11,11 @@ Flaps should show 2-3mm upwards when the wands are down.
 
 ## Fastest sailing when sail is above one
 Async setup of flight height through ride-height adjuster wheel and through foil rake, like 2.5 windwards and 3.5 leewards. 
+
 Foil rake: 4 is absolute max. 2.5 to 3.5 is good.
 
-Whiteformula hints: Straight line speed is best upright, but sailing for an upwind mark is best at 15degrees over to windward, this way you will generate lift towards the mark.
-
-## how to remove water from the mast
-The mast should be water tight. But however, in my unfortunate case when I lost the lid of the hull and the boat almost sank, I did get water into it. The entire mast was in the water and it could have gottin in at the foot or somewhere else on the mast. Usually when capsizing the foot is above water, so less risky for untighteness.
-
-However, in case you have water in the mast, I had gotten from whiteformula's Tom White great hints. To get it out you can remove the screw from the halyard turning block eye. Near the base of the mast. This should let out any water. Note, the smaller upper-one screw of the two is connected with the hollow area of the mast, so this one lets water come out. 
-
-![drain water from mast foot](drainwaterfoot.jpg)
-
-If this does not solve the problem it is most likely that one of the rivet plugs is leaky. You can remove the white plastic plugs in the rivets on the mast hook. You can either pull them out with a pin or you can remove them with a 2.5mm Drill bit. I got some plugs from the nice guys from whiteformula.
-
-![drain water from mast top](drainwatertop.jpg)
- 
-A very easy way to find the leak is to put soapy water over all of the rivets and blow air into the mast through the halyard eye hole using a bike pump. You will see bubbles come from the rivet that is leaky.
- 
-If it is not a rivet but a screw in the foot, you can remove the screw, put a little silicone in the hole and then put the screw back in. That should solve it.
-
-
+Whiteformula hints: Straight line speed is best upright, but sailing for an upwind mark is best at 15degrees over to windward, this way you will generate lift towards the mark. 
+There is no need to adjust the ride-heigth with every tack to achieve the 15 degree angle, just async foil rake and balancing the boat with main sheet should do it. 
 
 
 # boat tweaks
@@ -60,19 +45,25 @@ So I do need a 4-wheel trolley to slip the whisper. The air-filled wheels swim n
 
 ## sacrificial halyard - no longer
 
+
+
 ## rigging tension 
-Tightening and loosening the rig with the spanner wrench is somewhat annoying. 
+Tightening and loosening the rig at the stainless striker with the spanner wrench is somewhat annoying. 
 I am a lazy person - in the sense of repetitive tasks - and hence want to automate everything as much as possible.
 So I have ordered a 17mm spanner ratchet and let you know how much of a help it is.
 ![fastratch](fastratch.jpg)
 
-The other issue is the risk of the mast fall over when loosening the rig tensioner !!!!STRIKER!! too much  
+The Whisper manual says it should be 17 Loos gauge rigging tension. I justs bought a more modern spinlock from rig-sense. There is a conversion table from Loos.
 
 ### safety line
-
-
+In order to avoid the mast falling accidentally when untightening the rigging tension at the stainless striker, I put a short piece of dyneema rope there. I am lazy and thats more convenient than tying the spinnaker halyard back and forth to secure the mast.
+![mast safety line](mastsafetyline.jpg)
 
 ## ride-height adjuster
+I got my stunning looking new black foils and opened the sailing season with them. During one of the first sails I discovered that the ride-height adjustment wheel got looser the more I turned it back and forth. I was worried the mechanics fall apart while on water. So I aborted the sail and took the ride-height system on land apart. The issue was the the **nut on the threaded rod was loose** (see picture below the not on top of the red T). 
+I checked the position of the nut so that the 3D-printed wheel would fit nicely, marked the position, and put then __threadlocker glue__ on it to make sure it wouldnt move again. So far it works well. 
+
+![ride-height system](rideheightsystem.jpg)
 
 ## righting line
 Yes, it costs a few grams, but its less stressful if you have a righting line that you can pull out of the pocket vs. making knots into the gennaker sheet for uprighting. The other benefit is that the crew can use it to hold on when the helm is working the main sheet. 
@@ -101,15 +92,31 @@ The holder is 3D printed and can be found here [INSERT VELOCITEK HOLDER LINK].
 ![3d printed holder](3dprint.jpg)
 
 
+## how to remove water from the mast
+The mast should be water tight. But however, in my unfortunate case when I lost the lid of the hull and the boat almost sank, I did get water into it. The entire mast was in the water and it could have gottin in at the foot or somewhere else on the mast. Usually when capsizing the foot is above water, so less risky for untighteness.
+
+However, in case you have water in the mast, I had gotten from whiteformula's Tom White great hints. To get it out you can remove the screw from the halyard turning block eye. Near the base of the mast. This should let out any water. Note, the smaller upper-one screw of the two is connected with the hollow area of the mast, so this one lets water come out. 
+
+![drain water from mast foot](drainwaterfoot.jpg)
+
+If this does not solve the problem it is most likely that one of the rivet plugs is leaky. You can remove the white plastic plugs in the rivets on the mast hook. You can either pull them out with a pin or you can remove them with a 2.5mm Drill bit. I got some plugs from the nice guys from whiteformula.
+
+![drain water from mast top](drainwatertop.jpg)
+ 
+A very easy way to find the leak is to put soapy water over all of the rivets and blow air into the mast through the halyard eye hole using a bike pump. You will see bubbles come from the rivet that is leaky.
+ 
+If it is not a rivet but a screw in the foot, you can remove the screw, put a little silicone in the hole and then put the screw back in. That should solve it.
+
+
 # some stories...
 
 ## swimming for screw-driver
-It is not the workst, but still this is what you dont want to happen. Especially when single-handed sailing you are toast. 
+It is not the worst, but still this is what you don't want to happen. Especially when single-handed sailing you are toast. 
 
 So recently we went out, had a great sail. When approaching the shore and stopped to prepare for slipping we couldnt lift the backboard foil anymore. We double-checked the boat speed, but it was zero. So was the wand blocked by a branch or so? Nothing there that we could identify from the trampoline of the boat. Big problem, because it means we cannot pull the boat to the shore due to shallow knee-deep water. 
-So we tied the bow to a closeby buoy and I jumped into the 14 degree celcius warm (!) water perform a closer inspection. Then i could feel it with the fingers. There was something on the back side of the foil preventing to lift it. Swimming to the inside of the hull and diving (ducking??) the head underwater I could see that the screw was loose. Since I didnt fill the on-board tool-chest with my machinery, I had to take a swim and get a screw driver. Consequently I a nice swim to get a screw-driver from land. So i fixed that. How exactly it happened that i broke the wand right thereafter is unclear to me. It just broke by a simple touch. Maybe the wand was already damaged during the ride by only being half mounted.
+So we tied the bow to a closeby buoy and I jumped into the 14 degree celcius warm (!) water perform a closer inspection. Then i could feel it with the fingers. There was something on the back side of the foil preventing to lift it. Swimming to the inside of the hull and diving  the head underwater I could see that the screw was loose. Since I usually don't bring my tool-chest on-board flying, I had to take a swim and get a screw driver.Screw tightend and the foil went up again. Phew. Somehow at the end I broke the wand. How that happened is unclear to me. It just broke by a simple touch. Maybe the wand was already damaged during the ride by only being half mounted.
 ![losing the wand screw](losingwandscrew.jpg)
 
-So the boat and crew was rescued and we could slip the boat on land. Gladly I had ordered spare wands with the boat so I was on to fixing that broken one. It was trickier than I thought. The connecting metal axle had to be unscrewed at the top of the foil as well as at the wand. When I had finally the new wand in position, I figured the 3mm screw wouldnt go in. Why? There were no threads. So fortunately I had 3mm thread making bits !!!!!!!!!!!!!!! . They come as a set of 3 and I used only the first two, so that the threads would be tight enough and keep the screw in place.
+So the boat and crew was rescued and we could slip the boat on land. Gladly I had ordered spare wands with the boat so I was on to fixing that broken one. It was trickier than I thought. The connecting metal axle had to be unscrewed at the top of the foil as well as at the wand. When I had finally the new wand in position, I figured the 3mm screw wouldnt go in. Why? There were no threads. So fortunately I had 3mm thread cutting bits. They come as a set of 3 and I used only the first two, so that the threads would be tight enough and keep the screw in place.
 
 As to the larger screw that I almost lost during sailing, I used silicone glue, which should allow me to open the screw again in the unpleasent event i crack the wand again.  
