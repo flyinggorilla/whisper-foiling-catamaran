@@ -18,6 +18,13 @@ Foil rake: 4 is absolute max. 2.5 to 3.5 is good.
 Whiteformula hints: Straight line speed is best upright, but sailing for an upwind mark is best at 15degrees over to windward, this way you will generate lift towards the mark. 
 There is no need to adjust the ride-heigth with every tack to achieve the 15 degree angle, just async foil rake and balancing the boat with main sheet should do it. 
 
+## Tacking
+I found tacking actually quite tricky with the Whisper vs the Nacra F16. The Whisper barely turns through the wind.
+When sailing alone, I keep my weight as far back as possible to turn the bow through the wind. If that doesnt work, whats common, I push the main sail by hand into the wind so the boat gets additional turning momentum.
+When sailing with crew, the crew back-winds the jib. However, even this didnt allow for quick tacking. 
+
+The quickes tacking so far is a __semi-foiling tack__. So while on the foils the helm and crew move from trapeze onto the boat. It just needs a little losening the main-sheet and the whisper remains remarkable stable. So then its all about speed of unhooking the trapeze, and turning the boat into the wind while still on the foils. So far we managed twice to turn the boat through the wind. But by then we lost too much speed and went gently off the foils. However, we did the tack in the so far speediest form I know of.  
+
 
 # boat tweaks
 
@@ -62,7 +69,7 @@ The Whisper manual says it should be 17 Loos gauge rigging tension. I justs boug
 
 ![rigging tension diamond](riggingtension.jpg)
 
-Here are some measurements...
+Here are some measurements of status quo measurements. I am interested in the appropriate target settings...
 | Line | Tension in kg | Loos gauge (approx.) | comment |
 |------|---------------|----------------------|---------|
 | Mast support | 120kg | ~21   | measured below spi pole |
