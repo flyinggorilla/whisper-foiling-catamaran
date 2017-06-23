@@ -5,7 +5,7 @@
 
 # rigging and trimming tips
 ## main sail 
-O-shackle should be placed in a way that the know shows towards the mast. This is needed so that the main halyard unhooks easily when rotating the mast 90 degrees.
+O-shackle should be placed in a way that the knot shows towards the mast. This is needed so that the main halyard unhooks easily when rotating the mast 90 degrees.
 
 ## foils
 Flaps should show 2-3mm upwards when the wands are down.
@@ -73,6 +73,7 @@ Here are some measurements of status quo measurements. I am interested in the ap
 | Line | Tension in kg | Loos gauge (approx.) | comment |
 |------|---------------|----------------------|---------|
 | Mast support | 120kg | ~21   | measured below spi pole |
+| Mast support / rig tension | tbd | tbd   | measured under trampoline (V-wire) - recommendations seem to be 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
 | Diamond      | 60kg  | ~12   |
 | Shrouds      | 80kg  | ~17   |
 | Jib          | 70kg  | ~15   | measured above stainless striker |
