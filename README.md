@@ -44,8 +44,7 @@ So I do need a 4-wheel trolley to slip the whisper. The air-filled wheels swim n
 ![4 wheel trolley](4wheeltrolley.jpg)
 
 ## slipping line
-I do slip boats with a winch. I found the best way to pull the Whisper is a dyneema line from the gennaker shackles on each side of the boat. I put a "cleanup" expansion cord in there so its not loose during sailing. 
-![slip line](slippingline.png)
+I do slip boats with a winch. I found the best way to pull the Whisper is a dyneema line from the gennaker shackles on each side of the boat. I put a "cleanup" expansion cord in there so its not loose during sailing. ![slip line](slippingline.png)
 
 ## sacrificial halyard - no longer
 At the very first day with the Whisper we lost the jib halyard twice, requiring to pull down the mast. Also I wanted to minimize the amount of work to (de-)rig the Jib.
@@ -70,12 +69,16 @@ The Whisper manual says it should be 17 Loos gauge rigging tension. I justs boug
 ![rigging tension diamond](riggingtension.jpg)
 
 Here are some measurements of status quo measurements. I am interested in the appropriate target settings...
+
+
+
+
 | Line | Tension in kg | Loos gauge (approx.) | comment |
 |------|---------------|----------------------|---------|
-| Mast support | 120kg | ~21   | measured below spi pole |
-| Mast support / rig tension | tbd | tbd   | measured under trampoline (V-wire) - recommendations seem to be 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
-| Diamond      | 60kg  | ~12   |
-| Shrouds      | 80kg  | ~17   |
+| Mast support | 120kg | ~21  | measured below spi pole |
+| Mast support | tbd | tbd   | measured under trampoline (V-wire) - recommendations seem to be 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
+| Diamond      | 60kg  | ~12   |   |
+| Shrouds      | 80kg  | ~17   |  |
 | Jib          | 70kg  | ~15   | measured above stainless striker |
 
 
