@@ -123,7 +123,7 @@ So I mounted a Velocitek SpeedPuck.
 The holder is 3D printed and can be found here [https://www.thingiverse.com/thing:1814601](https://www.thingiverse.com/thing:1814601).  
 ![3d printed holder](3dprint.jpg)
 
-## rudder holder
+## rudder holder (v1 sucks, better move on to v2 below)
 Launching the boat in shallow water requires to hold the rudder in position by hand. When sailing single-handed its impossible to pull the boat at the bow through the water and hold the rudder at the far distant end of the boat at the same time. so something needed to keep the rudder a quarter-height down. I had this door wedge at home, and squeeze this at the side of the rudder to keep it at height. This works ok, when pulling the boat, but as soon as you are on the boat and pick up speed, it falls off as the rudder gets lift. Yes, if you manage to better adjust the angle of the rudder so the force goes down, maybe its possible to better keep it in place. However, I had to dive for the wedge already and since added a line to it.
 
 ![rudder wedge](rudderwedge.jpg)
@@ -131,6 +131,13 @@ Launching the boat in shallow water requires to hold the rudder in position by h
 However, it works only when there are no waves. Waves push the rudder up/down and the wedge falls immediately off. Has anyone a better solution?
 
 As alternative I am thinking about a rope from the T of the foil to keep it up, and another rope from top of foil to keep it down. Maybe 3D print a little piece that makes that easy. So the work on a boat never ends...
+
+## rudder holder (v2 works great)
+
+For coming in/out of shore in shallow waters, I needed a simple solution for keeping the rudder in middle position. One of the issues with my previous "door wedge" solution was that it failed when a wave or simply the foil-lift at speed pushed the rudder up. So the solution needed to keep the rudder in place - up and downwards. Also it should be easily adjustable on the water, without needing to change knots or using tools. So I came up with this simple solution that everyone can 3D print. You need a 3mm rope, a simple plastic carabiner, a 5mm bungee and one or two pieces of those "rope twisters" as I call those 3d printed parts - per rudder you want to equip with this.  
+Here is the link to the rudder holder 3D print piece https://www.thingiverse.com/thing:2426782. 
+
+![whisper rudder holder v2](whisperrudderholder.jpg)
 
 ## how to remove water from the mast
 The mast should be water tight. But however, in my unfortunate case when I lost the lid of the hull and the boat almost sank, I did get water into it. The entire mast was in the water and it could have gottin in at the foot or somewhere else on the mast. Usually when capsizing the foot is above water, so less risky for untighteness.
@@ -160,3 +167,6 @@ So we tied the bow to a closeby buoy and I jumped into the 14 degree celcius war
 So the boat and crew was rescued and we could slip the boat on land. Gladly I had ordered spare wands with the boat so I was on to fixing that broken one. It was trickier than I thought. The connecting metal axle had to be unscrewed at the top of the foil as well as at the wand. When I had finally the new wand in position, I figured the 3mm screw wouldnt go in. Why? There were no threads. So fortunately I had 3mm thread cutting bits. They come as a set of 3 and I used only the first two, so that the threads would be tight enough and keep the screw in place.
 
 As to the larger screw that I almost lost during sailing, I used silicone glue, which should allow me to open the screw again in the unpleasent event i crack the wand again.  
+
+
+
