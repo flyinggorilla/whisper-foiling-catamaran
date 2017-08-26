@@ -154,6 +154,11 @@ A very easy way to find the leak is to put soapy water over all of the rivets an
  
 If it is not a rivet but a screw in the foot, you can remove the screw, put a little silicone in the hole and then put the screw back in. That should solve it.
 
+## water in the hull
+Recently, when checking the hull lid, i figured my whisper has water in the hull. I dried it up and after the next sail I had again about half a litre in each of the hulls. Since i didnt capsize i figured the problem must exist on both hulls. So with the lessons learnt from sealing the mast I used soap-water on the outside and my electric airpump (low pressure, vacuum cleaner like pump with 2000l per min throughput) to put a little pressure into the hull. And voila the bubbles revealed that both of the rudder fixings were no longer tight. 
+![untight rudder mount](untightruddermountinked.jpg)
+According to whiteformula does the urethane based sealant on the pintle always work loose after a while. So this requires re-sealing every year as the load on the transom is very high. 
+So I sealed it with flexible silicone and will see how long that lasts. Right now the hull is watertight again.
 
 # some stories...
 
