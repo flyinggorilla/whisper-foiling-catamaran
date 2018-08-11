@@ -1,6 +1,8 @@
 # whisper catamaran sailing experiences
 
 [![whisper](whisper.jpg)](https://www.youtube.com/channel/UCwhb6u4A_Hy-c-eJbMLW7bg)
+
+# YouTube Whisper Foiling Channel
 [YouTube videos](https://www.youtube.com/channel/UCwhb6u4A_Hy-c-eJbMLW7bg)
 
 # rigging and trimming tips
