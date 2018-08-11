@@ -14,6 +14,7 @@ Flaps should show 2-3mm upwards when the wands are down.
 Async setup of flight height through ride-height adjuster wheel and through foil rake, like 2.5 windwards and 3.5 leewards. 
 
 Foil rake: 4 is absolute max. 2.5 to 3.5 is good.
+(Update: I sail in freshwater, which has less density, so I use foil rake at low winds asymmetrical 4 windwards, 5 leewards. When foiling single-handed upwind I go extreme 5 leewards and 2 windwards)
 
 Whiteformula hints: Straight line speed is best upright, but sailing for an upwind mark is best at 15degrees over to windward, this way you will generate lift towards the mark. 
 There is no need to adjust the ride-heigth with every tack to achieve the 15 degree angle, just async foil rake and balancing the boat with main sheet should do it. 
