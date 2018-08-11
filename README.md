@@ -28,11 +28,24 @@ The quickes tacking so far is a __semi-foiling tack__. So while on the foils the
 
 # boat tweaks
 
+## pressurce compensation piece
+I modified the hatch lid to have a pressure compensation piece. That is water tight, but also allows air to flow, so that the hull is pressure compensated. I used the Bopla 12mm DAE, one of many vendors. https://www.bopla.de/fileadmin/products/_Product_Information/52042000-spec_DAE_M12_Technische_Information-EN.pdf
+
+![pressure compensation](pressurecompensationhulllid.jpg)
+
+
+## foot straps
+Foot straps are great. No need for a chicken line on downwind course. And especially when single-handed trapezing with gennaker its for me priceless. Yes there is some insury risk, but so far I had not a bit of an issue, as the whispers wavepiercers carve so gently through the water so that you are not thrown off as with a regular catamaran (like my previous F16). I mounted it just about 3 centimeters away (aft) from the internal hull structure you can see when you take a picture with your phone camera from the inside.
+![footstraps](footstraps.jpg)
+I bent washers to approximate the hull shape and used sealing glue to tighten it 4 screws per strap.
+
 ## chicken line
+Update: I no longer use the chicken line, as i mounted footstraps. 
+
 So far all of the capsizes and most of the splashes were related to losing balance on the boat. While I hope to get better at keeping balance and steering the boat smoother, I still need to be able to hold-on to something. The traveller line isnt ideal, as the traveller cleat opens to easily and when the traveller is a bit out, you pull the sale all the time. On my Nacra 16 I had a chicken-line, which saved me a couple of times from capsizing when sailing gennaker downwind. So here is my first implementation of a chicken line for the whisper. Its good, it works, and it could be further improved too.
 ![chicken line](chickenline.jpg)
 
-I will try [Martin Langhoffs solution](https://www.youtube.com/watch?v=p0dYLhHZWO4) next.
+
 
 ## hull lid marks
 Trying to be a "good customer" I followed the advice to untighten the hull-lids - just a little bit by a half turn - so that the hull can equalize air pressure. However, on my third sail with this boat ever, I didnt notize during the pre-sail check that I forgot to tighen it. The lids were on, but just not tight. During a later capsize I lost then one of the hull-lids and flooded one hull with water. The Whisper almost sank and needed some rescue help. So to avoid this from happening ever again, I put a marker on the hull lid, so one can easily see whether its tight or not.
@@ -75,7 +88,7 @@ Here are some measurements of status quo measurements. I am interested in the ap
 
 | Line | Tension in kg | Loos gauge (approx.) | comment |
 |------|---------------|----------------------|---------|
-| Mast support | 120kg | ~21  | measured below spi pole |
+| Mast support | 160kg+ | ~23  | measured below spi pole |
 | Mast support | tbd | tbd   | measured under trampoline (V-wire) - recommendations seem to be 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
 | Diamond      | 60kg  | ~12   |   |
 | Shrouds      | 80kg  | ~17   |  |
