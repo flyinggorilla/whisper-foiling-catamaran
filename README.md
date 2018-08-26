@@ -80,7 +80,7 @@ I am a lazy person - in the sense of repetitive tasks - and hence want to automa
 So I have ordered a 17mm spanner ratchet and let you know how much of a help it is.
 ![fastratch](fastratch.png)
 
-The Whisper manual says it should be 17 Loos gauge rigging tension. I justs bought a more modern spinlock from rig-sense. There is a conversion table to loos so my mast support rig with 120kg / 21loos should be fine.
+The Whisper manual says it should be 17 Loos gauge rigging tension. I justs bought a more modern spinlock from rig-sense. There is a [conversion table to loos](https://www.spinlock.co.uk/uploads/files/042018/5acf32f42921105789bbdb1f/original/Spinlock_Conversion_Chart.pdf?1523628110) so my mast support rig with 120kg / 21loos should be fine.
 
 ![rigging tension diamond](riggingtension.jpg)
 
