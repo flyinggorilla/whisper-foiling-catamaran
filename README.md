@@ -91,10 +91,10 @@ Here are some measurements of status quo measurements. I am interested in the ap
 
 | Line | Tension in kg | Loos gauge PT1 (approx.) | comment |
 |------|---------------|----------------------|---------|
-| Mast support 3mm | 160kg+ | ~23  | measured below spi pole |
-| Mast support | 80kg |    | measured under trampoline (V-wire) - recommendations seem to be 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
+| Mast support at spi pole 3mm | 160kg+ | ~25  | measured below spi pole |
+| Mast support V-wire 3mm | 80kg | ~17 | (V-wire) measured under trampoline, is always half of measured below spi-pole - recommendations seem to be Loose Gage 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
 | Shrouds 3mm     | 80kg  | ~17   |  |
-| Diamond 3mm     | 125kg  | ~23   |  Should be more Loose 30, which is more 120kg |
+| Diamond 3mm     | 125kg  | ~22   |  Should be more Loose 30, which is more 220kg |
 | Diamond pre-bend | ~50mm | | measured distance from mast to hypothenuse of triangle |
 | Jib          | 70kg  | ~15   | measured above stainless striker |
 
