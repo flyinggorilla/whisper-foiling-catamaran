@@ -31,7 +31,7 @@ The quickes tacking so far is a __semi-foiling tack__. So while on the foils the
 
 # boat tweaks
 
-## pressurce compensation piece
+## pressure compensation piece
 I modified the hatch lid to have a pressure compensation piece. That is water tight, but also allows air to flow, so that the hull is pressure compensated. I used the Bopla 12mm DAE, one of many vendors. https://www.bopla.de/fileadmin/products/_Product_Information/52042000-spec_DAE_M12_Technische_Information-EN.pdf
 
 ![pressure compensation](pressurecompensationhulllid.jpg)
