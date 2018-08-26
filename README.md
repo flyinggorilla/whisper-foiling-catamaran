@@ -91,11 +91,11 @@ Here are some measurements of status quo measurements. I am interested in the ap
 
 | Line | Tension in kg | Loos gauge PT1 (approx.) | comment |
 |------|---------------|----------------------|---------|
-| Mast support 2.5mm??? | 160kg+ | ~23  | measured below spi pole |
-| Mast support | tbd | tbd   | measured under trampoline (V-wire) - recommendations seem to be 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
-| Diamond 3mm     | 125kg  | ~23   |  Should be more Loose 30, which is more 120kg |
+| Mast support 2.5mm | 160kg+ | ~23  | measured below spi pole |
+| Mast support | 80kg |    | measured under trampoline (V-wire) - recommendations seem to be 17 absolute min, 20 light winds, 25 heavier winds on Loos gauge |
 | Shrouds 3mm     | 80kg  | ~17   |  |
-| Diamond pre-bend | x cm | | measured distance from mast to hypothenuse of triangle |
+| Diamond 3mm     | 125kg  | ~23   |  Should be more Loose 30, which is more 120kg |
+| Diamond pre-bend | ~50mm | | measured distance from mast to hypothenuse of triangle |
 | Jib          | 70kg  | ~15   | measured above stainless striker |
 
 
@@ -159,10 +159,10 @@ Here is the link to the rudder holder 3D print piece https://www.thingiverse.com
 
 ## repairing the wand
 
-rod: carbon x mm
-arm:
-paddle: 
+ordering a replacement wand from whiteformula is no problem and reasonable priced. however, as I like to be able to fix things right away and tinker around too, I printed my own wand parts. Ordering carbon rods is no problem too, they are about €10 per piece. 
 
+I have uploaded the [CAD and 3D print models here...](https://www.thingiverse.com/thing:3054149) 
+[![3D Model](whisperfoilingcatamaranreplacementwand.png)](https://www.thingiverse.com/thing:3054149)
 
 ## how to remove water from the mast
 The mast should be water tight. But however, in my unfortunate case when I lost the lid of the hull and the boat almost sank, I did get water into it. The entire mast was in the water and it could have gottin in at the foot or somewhere else on the mast. Usually when capsizing the foot is above water, so less risky for untighteness.
