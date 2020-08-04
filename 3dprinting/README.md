@@ -53,6 +53,8 @@ note: picture shows original whiteformula printed red T-part which was printed s
 * drill a 2.5mm hole for the 3mm screw (I use a HSS-cobalt drill for the Carbon rod)
 * clip the screw to a length so it just doesnt stand out on the other side of the paddle
 
+
+
 ## wand rod:
 * total length of original wand including arm and paddle is 930mm
 * cut the carbon rod to 830mm 
@@ -117,7 +119,9 @@ build plate:
 ## 3D models
 you can download from Fusion 360 site  in a format of your choice
 
-* [wand paddle](https://a360.co/2O1Cxfj)
+* [wand paddle - screw forward - fits original rod](https://a360.co/2O1Cxfj)
+* [wand paddle - screw aft - easier to mount](https://a360.co/3i54MJ1)
+* [wand paddle - screw sides - easier to mount](https://a360.co/3gtzBqt)
 * [wand arm](https://a360.co/2wckjRI)
 * [wand ride height lever](https://a360.co/2w9MqAS) 
 * [T Part Fusion 360 CAD Model](https://a360.co/36usnOo)
