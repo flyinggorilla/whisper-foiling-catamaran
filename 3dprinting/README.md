@@ -121,7 +121,8 @@ Here is the model [https://a360.co/2NASVn5](https://a360.co/2NASVn5)
 For coming in/out of shore in shallow waters, I needed a simple solution for keeping the rudder in middle position. One of the issues with my previous "door wedge" solution was that it failed when a wave or simply the foil-lift at speed pushed the rudder up. So the solution needed to keep the rudder in place - up and downwards. 
 You need a 3mm rope, a simple plastic carabiner, a 5mm bungee.  
 
-![whisper rudder holder v2](../whisperrudderholder.jpg)
+[![whisper rudder holder v2](../whisperrudderholder.jpg)](WhisperRudderRopeStraightTwister.stl)
+[![whisper rudder holder v2](WhisperRudderRopeStraightTwister.stl)](WhisperRudderRopeStraightTwister.stl)
 
 
 # Speedpuck Mount
