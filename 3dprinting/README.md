@@ -6,6 +6,9 @@
 * [__rudder holder__](#Rudder-Holder) to lock in various heights in shallow waters
 * [__speedpuck mount__](#Speedpuck-Mount)
 
+community contributions:
+* [__boom holder__](#Boom-Holder)
+
 # Wand System
 The [Whisper foiling catamaran](https://www.youtube.com/channel/UCwhb6u4A_Hy-c-eJbMLW7bg) uses "wands" as ride height sensor to dynamically control the foil lift. Parts of that wand system break from time to time, so printing them yourself can be convenient.
 
@@ -92,6 +95,7 @@ build plate:
 * temperature: 90 degrees
 * adhesion: DimaFix applied to glass-plate
 
+
 ## 3D models
 you can download from Fusion 360 site  in a format of your choice
 
@@ -150,6 +154,12 @@ To make it a bit more robust I printed with ASA (UV and water resistant, as well
 ![rig tension adjuster](rig-tension-adjuster.jpg)
 
 Fusion Design: [https://a360.co/2YBYY0c](https://a360.co/2YBYY0c)
+
+
+# Boom Holder
+Contributed by [Christian Witsch](https://www.youtube.com/channel/UChSlq1hUahmVQtAV6N_KJtA)
+
+[![boom holder](boom-holder-v2.jpg)](boom%20holder%20v2.stl)
 
 # License
 All models are licensed under __Creative Commons - Attribution - Non Commercial - Share Alike__
