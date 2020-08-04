@@ -3,11 +3,13 @@
 
 * [__wand system__](#Wand-System) to replace parts that break with easier access as well as tunings
 * [__ride height adjuster__](#Ride-Height-Adjuster) much easier than the rope, with up/down indicators
+* [__rig tension adjuster__](#Rig-Tension-Adjuster) stainless striker hand-wheel
 * [__rudder holder__](#Rudder-Holder) to lock in various heights in shallow waters
 * [__speedpuck mount__](#Speedpuck-Mount)
 
 community contributions:
 * [__boom holder__](#Boom-Holder)
+* [__dolphin striker line guide__](#Dolphin-Striker-Line-Guide)
 
 # Wand System
 The [Whisper foiling catamaran](https://www.youtube.com/channel/UCwhb6u4A_Hy-c-eJbMLW7bg) uses "wands" as ride height sensor to dynamically control the foil lift. Parts of that wand system break from time to time, so printing them yourself can be convenient.
@@ -43,6 +45,9 @@ additional replacement parts related to the wand system:
 * drill a 2.5mm hole into the carbon rod for the 3mm screw (I use a HSS-cobalt drill for the Carbon rod)
 * clip the screw to a length so it just doesnt stand out on the other side of the arm
 
+![arms](ride-height-T-and-arms.jpg)
+note: picture shows original whiteformula printed red T-part which was printed standing. thus you see the printing layers. this part will break easily therefore. read below how to print stronger T-parts. The blue arms are printed with strong ApolloX ASA material.
+
 ## wand paddle:
 * use 8mm drill to create a snug fit of the rod into the 3D printed parts
 * drill a 2.5mm hole for the 3mm screw (I use a HSS-cobalt drill for the Carbon rod)
@@ -63,7 +68,20 @@ additional replacement parts related to the wand system:
 
 This is a replacement part for the Whisper foiling catamarans ride height T part. It is printed laid down so to benefit from increased strength vs. the original part. As a tradeoff, it needs to be printed with supports.
 
-For enough strength, I recommend printing in FormFutura ASA (ApolloX) material, which is UV, warmth and water proof. 
+[![T part](whisper-ride-height-T.jpg)](whisper-ride-height-T-with-threads.stl)
+[T part](whisper-ride-height-T-with-threads.stl)
+
+I recommend printing in FormFutura ASA (ApolloX) material, which is UV, warmth and water proof. To make sure it is robust enough it is super important to print it horizontally with supports and not standing.
+
+![horizontal printing with supports](printing-T-horizontal.jpg)
+
+## Pins
+Contributed by [Christian Witsch](https://www.youtube.com/channel/UChSlq1hUahmVQtAV6N_KJtA)
+
+[![ride height pins](ride-height-pins.jpg)](ride-height-pin.stl)
+
+[ride height pins](ride-height-pin.stl)
+
 
 ## Lever Arms:
 * drill 2.5mm holes for the 3mm screws
@@ -139,10 +157,6 @@ You need
 * 6x 15-20mm stainless wood screws (max 3mm diameter, better 2.5mm)
 * 4x 30mm M4 Hex bolts and Nyloc nuts - stainless
 
-Just for reference:
-* v1 is here http://www.thingiverse.com/thing:1465245
-* v2 is here designed for 38mm pole diameter http://www.thingiverse.com/thing:1644998
-
 here is the Fusion 360 design:
 [http://a360.co/2dl8z6m](http://a360.co/2dl8z6m) 
 
@@ -161,6 +175,20 @@ Fusion Design: [https://a360.co/2YBYY0c](https://a360.co/2YBYY0c)
 Contributed by [Christian Witsch](https://www.youtube.com/channel/UChSlq1hUahmVQtAV6N_KJtA)
 
 [![boom holder](boom-holder-v2.jpg)](boom%20holder%20v2.stl)
+
+# Dolphin Striker Line Guide
+Contributed by [Christian Witsch](https://www.youtube.com/channel/UChSlq1hUahmVQtAV6N_KJtA)
+
+![line holder](line-holder.jpg)
+
+* [guide](line-holder-guide.stl)
+* [lid](line-holder-lid.stl)
+
+# Material
+
+My favorite material for such parts is [FormFutura ApolloX ASA](https://www.formfutura.com/shop/product/apollox-red-307?category=191). It is UV and water resistant, and has great mechanical properties. Easy to print with barely any warping as well. Make sure you print in 0.1mm layer height (or less) for better interlayer adhesian and use at least 5 walls.
+
+![](https://www.formfutura.com/web/image/product.template/2290/image/300x300?unique=22053a7) 
 
 # License
 All models are licensed under __Creative Commons - Attribution - Non Commercial - Share Alike__
