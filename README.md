@@ -1,9 +1,13 @@
-# whisper catamaran sailing experiences
+# Whisper Foiling Catamaran sailing experiences
 
 [![whisper](whisper.jpg)](https://www.youtube.com/channel/UCwhb6u4A_Hy-c-eJbMLW7bg)
 
 # YouTube Whisper Foiling Channel
 [YouTube videos](https://www.youtube.com/channel/UCwhb6u4A_Hy-c-eJbMLW7bg)
+
+# Repairing and tuning the Whisper with 3D printed parts
+[![3D printing](3dprinting/whisperfoilingcatamaranreplacementwand.png)](3dprinting)
+[3D printed models](3dprinting)
 
 # rigging and trimming tips
 ## main sail 
