@@ -122,8 +122,6 @@ For coming in/out of shore in shallow waters, I needed a simple solution for kee
 You need a 3mm rope, a simple plastic carabiner, a 5mm bungee.  
 
 [![whisper rudder holder v2](../whisperrudderholder.jpg)](WhisperRudderRopeStraightTwister.stl)
-[![whisper rudder holder v2](WhisperRudderRopeStraightTwister.stl)](WhisperRudderRopeStraightTwister.stl)
-
 
 # Speedpuck Mount
 
